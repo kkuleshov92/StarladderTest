@@ -77,9 +77,13 @@ h5 {
 }
 
 .header {
+    background-size: cover;
+    background-repeat: no-repeat;
 
     &__wrap {
         padding-top: 133px;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
 
     &__nav {
