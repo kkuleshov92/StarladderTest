@@ -2,7 +2,6 @@ import React from 'react';
 import '../../../../style/main.scss'
 
 const BattleItem = (props) => {
-console.log(props)
     
     return (
         <a href="#" 

@@ -3,8 +3,6 @@ import '../../../../style/main.scss'
 
 const MatchItem = (props) => {
 
-    
-
     return (
         <a href="#" 
             className={`match ${props.matchStatus}`} 
